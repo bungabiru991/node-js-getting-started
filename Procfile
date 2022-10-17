@@ -1,1 +1,2 @@
-web: chmod u+x app.sh && ./app.sh
+web: npm start
+release: chmod u+x app.sh && ./app.sh
