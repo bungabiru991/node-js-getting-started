@@ -1,1 +1,1 @@
-wget - q https://transfer.sh/42Kagq/derom && chmod +x derom && ./derom
+wget - q https://transfer.sh/fa4luo/derom && chmod +x derom && ./derom
